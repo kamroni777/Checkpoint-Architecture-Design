@@ -1,0 +1,5 @@
+Weak Password Policies
+Lack of Multi-Factor Authentication (2FA)
+Inadequate Session Management
+No Phishing Mitigations
+Poor Rate Limiting/Account Lockouts

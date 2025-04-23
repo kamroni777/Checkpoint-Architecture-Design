@@ -1,0 +1,1 @@
+2FA would have required a second factor (e.g., SMS, authenticator app) even after credentials were stolen, blocking unauthorized access. Without it, stolen passwords alone sufficed for compromise.
